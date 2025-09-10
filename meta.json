@@ -1,0 +1,16 @@
+{
+  "dataset_name": "Central Bank EUR",
+  "dataset_code": "CB_EUR_ECB",
+  "source_uri": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2025/html/ecb.is250724~a66e730494.en.html",
+  "created_at": "2025-09-01T19:15:20-04:00",
+  "creator": "Christine Lagarde, Luis de Guindos",
+  "publisher": "European Central Bank",
+  "publication_date": "2025-07-24T09:00:00-04:00",
+  "publication_title": "Monetary policy statement",
+  "ingest_source": "CB_EUR_ECB_LDR",
+  "custom_attributes": {
+    "category": "Monetary policy statement",
+    "language": "English"
+  },
+  "raw_attributes": {}
+}
